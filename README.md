@@ -1,3 +1,5 @@
+# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzvshkin%2FMDK&count_bg=%23178600&title_bg=%23000000&icon=csharp.svg&icon_color=%23178600&title=%D0%9F%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D0%BB%D0%BE+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F+%2F+%D0%92%D1%81%D0%B5%D0%B3%D0%BE&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 📘 МДК 01.01: Разработка программных модулей
 
 ## 📝 Описание
