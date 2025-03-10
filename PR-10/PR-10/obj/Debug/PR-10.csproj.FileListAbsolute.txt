@@ -1,0 +1,7 @@
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\bin\Debug\PR-10.exe.config
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\bin\Debug\PR-10.exe
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\bin\Debug\PR-10.pdb
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\obj\Debug\PR-10.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\obj\Debug\PR-10.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\obj\Debug\PR-10.exe
+C:\Users\-\source\repos\zvshkin\MDK\PR-10\PR-10\obj\Debug\PR-10.pdb
