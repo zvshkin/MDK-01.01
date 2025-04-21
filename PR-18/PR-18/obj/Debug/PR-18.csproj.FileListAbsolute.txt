@@ -1,0 +1,10 @@
+E:\Edu\MDK\PR\PR-18\PR-18\bin\Debug\PR-18.exe.config
+E:\Edu\MDK\PR\PR-18\PR-18\bin\Debug\PR-18.exe
+E:\Edu\MDK\PR\PR-18\PR-18\bin\Debug\PR-18.pdb
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR-18.csproj.AssemblyReference.cache
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR_18.Form1.resources
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR_18.Properties.Resources.resources
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR-18.csproj.GenerateResource.cache
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR-18.csproj.CoreCompileInputs.cache
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR-18.exe
+E:\Edu\MDK\PR\PR-18\PR-18\obj\Debug\PR-18.pdb
