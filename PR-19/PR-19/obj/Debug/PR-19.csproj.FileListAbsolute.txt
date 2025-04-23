@@ -1,0 +1,12 @@
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\PR-19.exe.config
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\PR-19.exe
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\PR-19.pdb
+E:\Edu\MDK-master\PR-19\PR-19\obj\Debug\PR-19.csproj.AssemblyReference.cache
+E:\Edu\MDK-master\PR-19\PR-19\obj\Debug\PR-19.csproj.CoreCompileInputs.cache
+E:\Edu\MDK-master\PR-19\PR-19\obj\Debug\PR-19.exe
+E:\Edu\MDK-master\PR-19\PR-19\obj\Debug\PR-19.pdb
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\input1.xml
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\input5.xml
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\input4.xml
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\input3.xml
+E:\Edu\MDK-master\PR-19\PR-19\bin\Debug\input2.xml

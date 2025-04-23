@@ -1,0 +1,7 @@
+E:\Edu\MDK-master\PR-16\PR-16\bin\Debug\PR-16.exe.config
+E:\Edu\MDK-master\PR-16\PR-16\bin\Debug\PR-16.exe
+E:\Edu\MDK-master\PR-16\PR-16\bin\Debug\PR-16.pdb
+E:\Edu\MDK-master\PR-16\PR-16\obj\Debug\PR-16.csproj.AssemblyReference.cache
+E:\Edu\MDK-master\PR-16\PR-16\obj\Debug\PR-16.csproj.CoreCompileInputs.cache
+E:\Edu\MDK-master\PR-16\PR-16\obj\Debug\PR-16.exe
+E:\Edu\MDK-master\PR-16\PR-16\obj\Debug\PR-16.pdb
