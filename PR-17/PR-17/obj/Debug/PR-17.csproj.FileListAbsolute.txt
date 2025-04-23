@@ -1,7 +1,0 @@
-E:\Edu\MDK\PR\PR-17\PR-17\bin\Debug\PR-17.exe.config
-E:\Edu\MDK\PR\PR-17\PR-17\bin\Debug\PR-17.exe
-E:\Edu\MDK\PR\PR-17\PR-17\bin\Debug\PR-17.pdb
-E:\Edu\MDK\PR\PR-17\PR-17\obj\Debug\PR-17.csproj.AssemblyReference.cache
-E:\Edu\MDK\PR\PR-17\PR-17\obj\Debug\PR-17.csproj.CoreCompileInputs.cache
-E:\Edu\MDK\PR\PR-17\PR-17\obj\Debug\PR-17.exe
-E:\Edu\MDK\PR\PR-17\PR-17\obj\Debug\PR-17.pdb
