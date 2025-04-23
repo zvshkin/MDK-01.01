@@ -1,0 +1,7 @@
+D:\Копнин ИС-23Б\MDK-master\PR-15\bin\Debug\PR-15.exe.config
+D:\Копнин ИС-23Б\MDK-master\PR-15\bin\Debug\PR-15.exe
+D:\Копнин ИС-23Б\MDK-master\PR-15\bin\Debug\PR-15.pdb
+D:\Копнин ИС-23Б\MDK-master\PR-15\obj\Debug\PR-15.csproj.AssemblyReference.cache
+D:\Копнин ИС-23Б\MDK-master\PR-15\obj\Debug\PR-15.csproj.CoreCompileInputs.cache
+D:\Копнин ИС-23Б\MDK-master\PR-15\obj\Debug\PR-15.exe
+D:\Копнин ИС-23Б\MDK-master\PR-15\obj\Debug\PR-15.pdb
