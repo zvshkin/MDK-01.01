@@ -1,0 +1,11 @@
+E:\Edu\MDK-master\PR-21\PR-21\bin\Debug\PR-21.exe.config
+E:\Edu\MDK-master\PR-21\PR-21\bin\Debug\PR-21.exe
+E:\Edu\MDK-master\PR-21\PR-21\bin\Debug\PR-21.pdb
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.csproj.AssemblyReference.cache
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR_21.Form1.resources
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR_21.Properties.Resources.resources
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.csproj.GenerateResource.cache
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.csproj.CoreCompileInputs.cache
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.exe
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.pdb
+E:\Edu\MDK-master\PR-21\PR-21\obj\Debug\PR-21.csproj.ResolveComReference.cache
