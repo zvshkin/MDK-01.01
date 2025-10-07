@@ -1,0 +1,6 @@
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

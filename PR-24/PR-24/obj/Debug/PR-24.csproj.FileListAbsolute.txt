@@ -1,0 +1,10 @@
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\bin\Debug\PR-24.exe.config
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\bin\Debug\PR-24.exe
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\bin\Debug\PR-24.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\obj\Debug\PR-24.csproj.AssemblyReference.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\obj\Debug\PR-24.csproj.CoreCompileInputs.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\obj\Debug\PR-24.exe
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\obj\Debug\PR-24.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\bin\Debug\ClassLibrary1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\bin\Debug\ClassLibrary1.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\PR-24\obj\Debug\PR-24.csproj.Up2Date

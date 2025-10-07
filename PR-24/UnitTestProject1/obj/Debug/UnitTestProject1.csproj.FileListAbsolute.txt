@@ -1,0 +1,13 @@
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\obj\Debug\UnitTest.40E657F8.Up2Date
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ZV\source\repos\zvshkin\MDK-01.01\PR-24\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
